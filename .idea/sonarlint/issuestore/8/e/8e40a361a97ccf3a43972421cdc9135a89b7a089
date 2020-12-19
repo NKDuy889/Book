@@ -1,0 +1,21 @@
+
+J
+java:S1066)"/Merge this if statement with the enclosing one.(Äš8îÖĞç.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(«†’˜øÿÿÿÿ8ã©¶İç.
+f
+java:S2583P"DChange this condition so that it does not always evaluate to "false"(şÍÉëúÿÿÿÿ8¹ü›Ùç.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ş›¼Úúÿÿÿÿ8×üœÙç.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(äüÃâ8‰ıÖµç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òç®‡8‚Ö¾Îç.
+V
+java:S1854G"9Remove this useless assignment to local variable "check".(„–¾É8–ÄÛØç.
+V
+java:S1854M"9Remove this useless assignment to local variable "check".(ëµÎà8—ÃšÙç.
+T	java:S106?"9Replace this use of System.out or System.err by a logger.(õ²÷08‹è…Øç.
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(®ŒÔÍ8–îäÖç.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(Î¢Ü¸ùÿÿÿÿ8Á§İç.
+]	java:S125X"<This block of commented-out lines of code should be removed.(õ¦Úäûÿÿÿÿ8Ç„‚İç.
+[
+java:S1854P"9Remove this useless assignment to local variable "check".(şÍÉëúÿÿÿÿ8¹ü›Ùç.
+P
+java:S1121P".Extract the assignment out of this expression.(şÍÉëúÿÿÿÿ8¹ü›Ùç.
